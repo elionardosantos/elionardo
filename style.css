@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+body {
+    max-width: 1000px;
+    background: linear-gradient(to right, #050061 0%, #0058cc 36%, #090979 100%);
+
+}
+header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.200);
+}
+
+header ul {
+    display: flex;
+}
+
+header ul li {
+    margin-right: 15px;
+}
+
+header ul li a {
+    
+}
+
