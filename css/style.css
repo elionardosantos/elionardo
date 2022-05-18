@@ -44,8 +44,13 @@ header ul li a {
     margin: -5px 5px -7px 5px;
 }
 
-header.container {
+h1 {
+    margin: 10px 0px 0px 0px;
+}
 
+img {
+    width: 130px;
+    border-radius: 50%;
 }
 
 @media screen and (max-width: 220px) {
